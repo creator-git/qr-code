@@ -1,0 +1,7 @@
+{
+  "name": "krok/qr-code",
+  "description": "Create QR Codes in PHP",
+  "type": "library",
+  "license": "LGPLv3",
+  "minimum-stability": "stable"
+}
