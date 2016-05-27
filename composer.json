@@ -3,5 +3,15 @@
   "description": "Create QR Codes in PHP",
   "type": "library",
   "license": "LGPLv3",
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Kairos Agency"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "qr": "lib"
+    }
+  }
 }
