@@ -1,17 +1,16 @@
 {
-  "name": "krok/qr-code",
-  "description": "Create QR Codes in PHP",
-  "type": "library",
-  "license": "LGPLv3",
-  "minimum-stability": "stable",
-  "authors": [
-    {
-      "name": "Kairos Agency"
+    "name": "krok/qr-code",
+    "description": "Create QR Codes in PHP",
+    "type": "library",
+    "license": "LGPL-3.0-only",
+    "authors": [
+        {
+            "name": "Kairos Agency"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "lib/full/qrlib.php"
+        ]
     }
-  ],
-  "autoload": {
-    "files": [
-      "lib/full/qrlib.php"
-    ]
-  }
 }
